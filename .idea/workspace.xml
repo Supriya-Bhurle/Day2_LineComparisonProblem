@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a353aef-83d4-4928-8a74-41e29906575d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/brigelabz/linecomparison/LengthOfLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brigelabz/linecomparison/LineComparisonMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brigelabz/linecomparison/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brigelabz/linecomparison/LineComparison.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Day3_LineComparisonProblem_243"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Day3_LineComparisonProblem_243&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.LineComparisonMain">
     <configuration name="LineComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brigelabz.linecomparison.LineComparison" />
       <module name="Day3_LineComparisonProblem_243" />
@@ -49,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LineComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brigelabz.linecomparison.LineComparisonMain" />
+      <module name="Day3_LineComparisonProblem_243" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brigelabz.linecomparison.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LineComparisonMain" />
         <item itemvalue="Application.LineComparison" />
       </list>
     </recent_temporary>
